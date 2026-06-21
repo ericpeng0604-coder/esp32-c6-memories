@@ -1,6 +1,6 @@
 # ESP32-C6 Memories
 
-MJPEG videos for the Waveshare ESP32-C6 weather clock gallery (240x240, 8fps).
+MJPEG videos for the Waveshare ESP32-C6 weather clock gallery (240x240, 12fps, q:v 4).
 
 Raw URLs for the device:
 
